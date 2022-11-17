@@ -250,25 +250,24 @@ const TermsOfService = () => {
 
             <p>7.1 As a user of the Platform, you agree not to:</p>
             <ul className="detail-list-items list-order-3">
-              <li className="list-71">
-                <span style={{ marginLeft: "0.5rem" }}> </span>systematically
-                retrieve data or other content (“Content”) from the Platform to
-                create or compile, directly or indirectly, a collection,
-                compilation, database, or directory without written permission
-                from us.
+              <li className="list-71-t">
+                systematically retrieve data or other content (“Content”) from
+                the Platform to create or compile, directly or indirectly, a
+                collection, compilation, database, or directory without written
+                permission from us.
               </li>
-              <li className="list-72">
+              <li className="list-72-t">
                 <span style={{ marginLeft: "0.5rem" }}> </span>make any
                 unauthorized use of the Platform, including collecting usernames
                 and/or email addresses of users by electronic or other means for
                 the purpose of sending unsolicited email, or creating user
                 Accounts by automated means or under false pretenses.
               </li>
-              <li className="list-73">
+              <li className="list-73-t">
                 <span style={{ marginLeft: "0.5rem" }}> </span>use a buying
                 agent or purchasing agent to make purchases on the Platform.
               </li>
-              <li className="list-74">
+              <li className="list-74-t">
                 <span style={{ marginLeft: "0.5rem" }}> </span>circumvent,
                 disable, or otherwise interfere with security-related features
                 of the Platform, including features that prevent or restrict the

@@ -192,19 +192,19 @@ content: "6.5 ";
 margin-left: -1.8rem;
 }
 
-.list-71::before {
+.list-71-t::before {
     content: "7.1.1 ";
     margin-left: -3rem;
     }
-.list-72::before {
+.list-72-t::before {
 content: "7.1.2 ";
 margin-left: -3rem;
 }
-.list-73::before {
+.list-73-t::before {
 content: "7.1.3 ";
 margin-left: -3rem;
 }
-.list-74::before {
+.list-74-t::before {
 content: "7.1.4 ";
 margin-left: -3rem;
 }

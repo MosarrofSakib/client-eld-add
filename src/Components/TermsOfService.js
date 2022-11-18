@@ -251,10 +251,11 @@ const TermsOfService = () => {
             <p>7.1 As a user of the Platform, you agree not to:</p>
             <ul className="detail-list-items list-order-3">
               <li className="list-71-t">
-                systematically retrieve data or other content (“Content”) from
-                the Platform to create or compile, directly or indirectly, a
-                collection, compilation, database, or directory without written
-                permission from us.
+                <span style={{ marginLeft: "0.5rem" }}> </span>systematically
+                retrieve data or other content (“Content”) from the Platform to
+                create or compile, directly or indirectly, a collection,
+                compilation, database, or directory without written permission
+                from us.
               </li>
               <li className="list-72-t">
                 <span style={{ marginLeft: "0.5rem" }}> </span>make any

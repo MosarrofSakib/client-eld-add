@@ -346,7 +346,7 @@ const DissLimLi = () => {
               You may contact us through our Platform, or the address as given
               below:<br></br>
               <span>
-                Eid: <br></br>
+                Eld: <br></br>
                 <a href="mailto: hello@eldapp.net">hello@eldapp.net</a>
               </span>
             </p>

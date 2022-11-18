@@ -271,14 +271,14 @@ const AcceptableUse = () => {
                   </li>
                 </ul>
               </li>
-              <li>
+              <li className="list-42">
                 Without limiting the foregoing, we have the right to cooperate
                 fully with any law enforcement authorities or court order
                 requesting or directing us to disclose the identity or other
                 information of anyone posting any materials on or through the
                 Platform or otherwise accessing or using our Platform.
               </li>
-              <li>
+              <li className="list-43">
                 YOU HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVE AND HOLD US AND
                 OUR AFFILIATES, LICENSEES, AND SERVICE PROVIDERS HARMLESS FROM
                 ANY AND ALL CLAIMS, DAMAGES, LIABILITIES AND COSTS RESULTING
@@ -286,7 +286,7 @@ const AcceptableUse = () => {
                 OR TAKEN AS A CONSEQUENCE OF, INVESTIGATIONS BY EITHER US/SUCH
                 PARTIES OR LAW ENFORCEMENT AUTHORITIES.
               </li>
-              <li>
+              <li className="list-44">
                 We do not undertake to review any material before it is posted
                 on the Platform and cannot ensure prompt removal of
                 objectionable material after it has been posted. Accordingly, we

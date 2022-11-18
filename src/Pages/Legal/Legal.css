@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+.full-body{
+    height: 90vh;
+}
+
 .header{
     background-color: #FFFFFF;
     padding: 1rem 1rem;
@@ -25,7 +29,7 @@
     font-family: 'Montserrat', sans-serif;
     background-color: #DAD9D9;
     padding: 3rem 0;
-    height: 89vh;
+    height: 100%;
 }
 
 .container-main{
@@ -74,7 +78,7 @@
 
 @media screen and (max-width: 400px) {
     .main{
-        height: 100vh;
+        height: 90vh;
         
     }
 

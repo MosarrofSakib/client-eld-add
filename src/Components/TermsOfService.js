@@ -101,23 +101,21 @@ const TermsOfService = () => {
               private events. Public events will be viewable and available to
               all users of the Platform subject to the settings and terms you
               select such as number of attendees, etc. Private events will not
-              be viewable to other users of the Platform, and{" "}
-              <span style={{ backgroundColor: "yellow" }}>
-                you may send an invite to the users you wish to invite
-              </span>
-              . You will be able to set terms of the events that you may create
-              via the Platform such as specifying activities which will be done
-              in such events. You may also be able to create groups and focused
-              sub-groups for creating an environment suitable for your
-              attendees. Other users of our Platform can choose to go to events
-              you create and socialise with you and other users of our Platform
-              if you choose to make such event public. When the users arrive at
-              the location of an event, they will be able to view and Chat
-              (defined below in Section 8) with users who are present at the
-              location of the event on the Platform. You can also create groups
-              on the Platform for planning and informing such group participants
-              of events and gatherings and such groups can be public or private
-              depending upon your profile settings.
+              be viewable to other users of the Platform, and you may send an
+              invite to the users you wish to invite . You will be able to set
+              terms of the events that you may create via the Platform such as
+              specifying activities which will be done in such events. You may
+              also be able to create groups and focused sub-groups for creating
+              an environment suitable for your attendees. Other users of our
+              Platform can choose to go to events you create and socialise with
+              you and other users of our Platform if you choose to make such
+              event public. When the users arrive at the location of an event,
+              they will be able to view and Chat (defined below in Section 8)
+              with users who are present at the location of the event on the
+              Platform. You can also create groups on the Platform for planning
+              and informing such group participants of events and gatherings and
+              such groups can be public or private depending upon your profile
+              settings.
             </p>
             <p>
               The types of events you may be able to create shall be as
@@ -386,20 +384,20 @@ const TermsOfService = () => {
                 <span className="head-tab"></span>INTERACTION WITH OTHER USERS
               </span>
             </h5>
-            <ul className="detail-list-items">
-              <li>
+            <ul className="list-order-2">
+              <li className="list-81">
                 The Platform allows you to interact with other users of the
                 Platform using the in-built chat messaging feature (
                 <span className="bold-p">“Chat”</span>).
               </li>
-              <li>
+              <li className="list-82">
                 You must use Chat at your own discretion and risk. Although we
                 try our best to maintain a user-friendly and safe Platform, you
                 hereby acknowledge and agree that we cannot and do not review
                 the background of our users. You are advised to run your own
                 background checks before meeting any stranger in real life.
               </li>
-              <li>
+              <li className="list-83">
                 We and our subsidiaries, affiliates, successors, assigns,
                 employees, agents, directors, officers, and shareholders hereby
                 exclude, to the fullest extent permitted by law, any and all

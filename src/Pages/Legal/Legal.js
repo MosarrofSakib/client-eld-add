@@ -5,7 +5,7 @@ import Logo from "../../Assets/Images/logoeld.png";
 
 const Legal = () => {
   return (
-    <div>
+    <div className="full-body">
       <div className="header">
         <div className="img-div">
           <img className="logo" src={Logo} alt="logo" />

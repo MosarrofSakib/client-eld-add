@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.full-body{
+    height: 90vh;
+}
+
+.header{
+    background-color: #FFFFFF;
+    padding: 1rem 1rem;
+}
+
+.img-div{
+    height: 3.5rem;
+    width: 2.5rem;
+    margin: auto;
+}
+
+.logo{
+    height: 3.5rem;
+    width: 2.5rem;
+}
+
+.main{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #DAD9D9;
+    padding: 3rem 0;
+    height: 100%;
+}
+
+.container-main{
+    width: 395px;
+    height: 100%;
+    margin: auto;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    border: 0 solid transparent;
+    border-radius: 10px;
+}
+
+.legal-h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1.5rem 0 0 1.5rem;
+    
+}
+
+.legal-h1-border{
+    border-bottom: 3px solid#E4E4E4;
+}
+
+.legal-items{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;   
+}
+
+.legal-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem 0.8rem 0 1.8rem;
+}
+
+.legal-item:hover{
+    background-color: #FFEBE5;
+}
+
+.legal-h5{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 400px) {
+    .main{
+        height: 90vh;
+        
+    }
+
+    .container-main{
+        width: 90%;
+    }
+}

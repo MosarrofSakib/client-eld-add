@@ -23,10 +23,13 @@ const Login = () => {
           </h2>
           <div className="page-content page-container" id="page-content">
             <div className="padding">
-              <div className="">
+              <div className="borderBottom">
                 <div className="template-demo mt-2 mr-4 bgcontainer">
                   {" "}
-                  <button className="btn btn-icon-text appbtn">
+                  <a
+                    href="https://apps.apple.com/us/app/eld-fe/id1634839254"
+                    className="btn btn-icon-text appbtn"
+                  >
                     {" "}
                     <AppleFilled className="btn-icon-prepend mdi-36px" />{" "}
                     <span className="d-inline-block text-left appsto">
@@ -36,8 +39,11 @@ const Login = () => {
                       </small>{" "}
                       App Store{" "}
                     </span>{" "}
-                  </button>{" "}
-                  <button className="btn btn-icon-text appbtn">
+                  </a>{" "}
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.eldApp&hl=sv&gl=US"
+                    className="btn btn-icon-text appbtn"
+                  >
                     {" "}
                     <Icon
                       className="btn-icon-prepend mdi-36px"
@@ -50,11 +56,18 @@ const Login = () => {
                       </small>{" "}
                       Google Play{" "}
                     </span>{" "}
-                  </button>{" "}
+                  </a>{" "}
+                </div>
+                <div className="text_para">
+                  <p>
+                    With ELD you can create and find activities, chat with
+                    friends and engage together
+                  </p>
                 </div>
               </div>
             </div>
           </div>
+
           <div className="email_para">
             <p>
               Share your stories, send us feedback or just say hello! by sending
